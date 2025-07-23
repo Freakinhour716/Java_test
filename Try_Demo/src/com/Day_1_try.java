@@ -1,0 +1,12 @@
+package com;
+
+public class Day_1_try {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Yes,it's me");
+
+	}
+	}
+
+
